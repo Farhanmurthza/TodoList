@@ -1,0 +1,18 @@
+{
+    "tasks": 
+    [{
+        "id": "1",
+        "title": "Title 1",
+        "text": "Gonna wash car next year"
+    },
+    {
+        "id": "2",
+        "title": "Title 2",
+        "text": "Go jogging for 1 year"
+    },
+    {
+        "id": "3",
+        "title": "Title 3",
+        "text": "Play badminton"
+    }]
+}
